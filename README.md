@@ -26,9 +26,10 @@ This project is for demo of the getX use
 
 
 ## ScreenShots
+![Uploading Simulator Screen Shot - iPhone SE (3rd generation) - 2023-07-12 at 12.22.12.png…]()
 
 
-<img src="[https://user-images.githubusercontent.com/33648294/187917533-fb28c5cf-3f02-4eea-9ac7-d89c53502a7b.png](https://github.com/ketan7055/flutter_getx/assets/33648294/3868f82a-e4ed-4b9b-a7aa-d095f940b34e)" width="200" height="400" />  
+<img src="[https://github.com/ketan7055/flutter_getx/assets/33648294/cf16da79-3541-479f-9184-a56625baf867.png]" width="200" height="400" />  
 
 
 
