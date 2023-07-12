@@ -1,15 +1,26 @@
 
 # Flutter GetX 
 
-A Flutter project.
 
-Flutter 2.9.0-0.1.pre • channel dev
+Flutter 3.10.3 • channel stable
 
-Dart SDK version: 2.16.0-80.1.beta 
+Dart SDK version: Dart 3.0.3
 
 ## Getting Started
 
-This project is for demo of the getX use
+This project is for demo of the getX 
+
+A Flutter project.
+
+* GetX State Management
+* Getx Routing
+* MVC with Getx
+* deal with Binding
+* deal with Get Storage
+* deal translation with Get Localization
+* API integration (News API call and rendering in UI)
+
+
 ## Dependency used :
   get: ^4.6.5 : App State Management
 
