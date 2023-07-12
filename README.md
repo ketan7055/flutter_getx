@@ -19,17 +19,9 @@ This project is for demo of the getX use
 
   intl: ^0.18.0  // DateFormatter
 
-## Command to run Test-Cases on terminal :
-  flutter test ./lib/widgets/test_widget/widget_testing.dart
-  
-  <a href="tabcorp://?adb_validation_sessionid=b8d14eb1-1545-4b17-a13a-44a48a7f4661/" target="link">
-
-
 ## ScreenShots
-![Uploading Simulator Screen Shot - iPhone SE (3rd generation) - 2023-07-12 at 12.22.12.png…]()
 
-
-<img src="[https://github.com/ketan7055/flutter_getx/assets/33648294/cf16da79-3541-479f-9184-a56625baf867.png]" width="200" height="400" />  
+<img src="https://github.com/ketan7055/flutter_getx/assets/33648294/cf16da79-3541-479f-9184-a56625baf867.png" width="200" height="400" />  
 
 
 
